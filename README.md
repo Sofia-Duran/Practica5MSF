@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Eritropoyesis; Estimación de parámetros; Glóbulos rojos; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
